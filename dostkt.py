@@ -71,7 +71,7 @@ def dos2():
 
 
 def usage():
-	print (''' KỊCH BẢN ĐƯỢC VIỆT HÓA BỞI ĐỨC NGUYỄN - THỎ KHÔNG TRẮNG ( TP SÓC TRĂNG )
+	print (''' \033[92m KỊCH BẢN ĐƯỢC VIỆT HÓA BỞI ĐỨC NGUYỄN - THỎ KHÔNG TRẮNG ( TP SÓC TRĂNG )
 	Bạn nên cân nhắc sử dụng hợp lý, tuy nó ít nguy hiểm nhưng bạn sẽ phải tuân theo pháp luật hiện hành..
 	Kịch bản này chỉ ở dạng thử nghiệm . Địa chỉ ip của bạn có thể bị nhìn thấy..bạn đã được cảnh báo \n
 	Code  : python3 hammer.py [-s] [-p] [-t]
