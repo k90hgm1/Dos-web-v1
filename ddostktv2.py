@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet Ddos TKT ( VIET NAM")
 
-print "TÁC GIẢ:   : THỎ KHÔNG TRẮNG"
+print "TÁC GIẢ: THỎ KHÔNG TRẮNG"
 
 
 print "Facebook : https://www.facebook.com/syaoran582"
