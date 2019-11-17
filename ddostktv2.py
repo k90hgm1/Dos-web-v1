@@ -19,7 +19,7 @@ bytes = random._urandom(1490)
 
 os.system("clear")
 os.system("figlet Ddos TKT ( VIET NAM")
-print
+
 print "TÁC GIẢ:   : THỎ KHÔNG TRẮNG"
 
 
